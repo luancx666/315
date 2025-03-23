@@ -1,4 +1,4 @@
-import {createRouter, createWebHistory} from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
@@ -14,19 +14,10 @@ const router = createRouter({
                     component: () => import('../views/Home.vue')
                 },
                 {
-                    path: '/202501',
-                    name: '202501',
-                    component: () => import('../views/2025/202501.vue')
-                },
-                {
-                    path: '/202502',
-                    name: '202502',
-                    component: () => import('../views/2025/202502.vue')
-                },
-                {
-                    path: '/202503',
-                    name: '202503',
-                    component: () => import('../views/2025/202503.vue')
+                    // 修改路由规则，确保匹配类似 /2025/202503 的路径
+                    path: '/:year/:dataPath', 
+                    name: 'eventView',
+                    component: () => import('../views/EventView.vue')
                 },
             ]
         },
