@@ -21,5 +21,17 @@ const tableData = [
     industry: "日用品",
     url: 'BV1HCQmY6Enh',
   },
+  {
+    year: '2025',
+    title: '一次性内裤虚假宣传与生产乱象',
+    industry: "日用品",
+    url: '',
+  },
+  {
+    year: '2025',
+    title: '家电维修平台“小病大修”',
+    industry: "家电维修",
+    url: '',
+  },
 ]
 </script>

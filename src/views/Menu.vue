@@ -24,6 +24,8 @@
           <span>2025</span>
         </template>
         <el-menu-item index="/202501">卫生巾、纸尿裤翻新“二次销售”</el-menu-item>
+        <el-menu-item index="/202502">一次性内裤虚假宣传与生产乱象</el-menu-item>
+        <el-menu-item index="/202503">家电维修平台“小病大修”</el-menu-item>
       </el-sub-menu>
     </el-sub-menu>
 
@@ -31,7 +33,6 @@
 </template>
 
 <script lang="ts" setup>
-import {ref} from 'vue'
 import router from "@/router/index.js";
 
 </script>

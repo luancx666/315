@@ -18,6 +18,16 @@ const router = createRouter({
                     name: '202501',
                     component: () => import('../views/2025/202501.vue')
                 },
+                {
+                    path: '/202502',
+                    name: '202502',
+                    component: () => import('../views/2025/202502.vue')
+                },
+                {
+                    path: '/202503',
+                    name: '202503',
+                    component: () => import('../views/2025/202503.vue')
+                },
             ]
         },
     ],
