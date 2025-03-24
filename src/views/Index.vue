@@ -1,7 +1,7 @@
 <template>
   <div class="common-layout">
     <el-container>
-      <el-aside class="menu">
+      <el-aside width="collapse" style="border-right: 1px solid #ccc" class="menu">
         <Menu></Menu>
       </el-aside>
       <el-container>
@@ -22,5 +22,8 @@ import Menu from '@/views/Menu.vue'
   border-right: 1px solid #E4E7ED;
   height: 100vh;
   background: #ffffff;
+}
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+  width: 200px;
 }
 </style>
