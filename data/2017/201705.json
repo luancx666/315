@@ -1,0 +1,51 @@
+{
+  "title": "耐克气垫鞋虚假宣传（无气垫）",
+  "exposureTime": "2017-03-15",
+  "industry": "体育用品",
+  "desc": "2017年央视'3·15'晚会曝光了耐克公司在中国市场销售的Hyperdunk 2008 FTB气垫篮球鞋实际未安装宣传的气垫装置，存在虚假宣传和欺骗消费者行为。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "耐克商业（中国）有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "耐克(Nike)"
+    }
+  ],
+  "productType": 19,
+  "productList": [
+    {
+      "name": "产品与宣传不符",
+      "issueType": "实际无气垫装置",
+      "remark": "与广告宣传严重不符"
+    },
+    {
+      "name": "虚假广告",
+      "issueType": "宣称'带zoom air气垫'",
+      "remark": "实际使用普通鞋垫"
+    },
+    {
+      "name": "价格欺诈",
+      "issueType": "高价销售低配产品",
+      "remark": "售价与配置不匹配"
+    },
+    {
+      "name": "售后服务推诿",
+      "issueType": "拒绝承认问题",
+      "remark": "初期拒绝退货退款"
+    }
+  ],
+  "penalty": {
+    "type": "行政处罚",
+    "amount": "487万元",
+    "desc": "被工商部门处以罚款并责令整改",
+    "response": "耐克中国发表致歉声明并同意退货退款"
+  },
+  "followUp": {
+    "regulatory": "工商总局加强进口商品广告监管",
+    "brandRes": "耐克改进产品宣传审核流程"
+  }
+}

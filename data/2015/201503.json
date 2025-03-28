@@ -1,0 +1,55 @@
+{
+  "title": "加油站作弊偷油",
+  "exposureTime": "2015-03-15",
+  "industry": "成品油零售",
+  "desc": "2015年央视'3·15'晚会曝光了部分加油站通过篡改加油机计量芯片、安装作弊软件等手段克扣消费者油量，这些加油站通过技术手段使加油机显示数字大于实际出油量。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "山东某民营加油站",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "陕西某合资加油站",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "未具名加油站品牌"
+    }
+  ],
+  "productType": 28,
+  "productList": [
+    {
+      "name": "计量作弊",
+      "issueType": "篡改加油机计量芯片",
+      "remark": "误差最高达6%"
+    },
+    {
+      "name": "遥控作弊",
+      "issueType": "安装作弊软件",
+      "remark": "可远程控制出油量"
+    },
+    {
+      "name": "短斤少两",
+      "issueType": "实际出油量不足",
+      "remark": "每50升少给2-3升"
+    },
+    {
+      "name": "逃避检查",
+      "issueType": "设置作弊开关",
+      "remark": "检查时恢复正常计量"
+    }
+  ],
+  "penalty": {
+    "type": "查封、罚款",
+    "amount": "未公开",
+    "desc": "涉事加油站被查封，责任人被控制",
+    "response": "加油站辩称'设备故障'"
+  },
+  "followUp": {
+    "regulatory": "质检总局开展全国加油机计量专项整治",
+    "brandRes": "正规加油站公示计量合格证书"
+  }
+}

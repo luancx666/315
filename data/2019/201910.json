@@ -1,0 +1,55 @@
+{
+  "title": "银行卡闪付安全隐患",
+  "exposureTime": "2019-03-15",
+  "industry": "金融支付",
+  "desc": "2019年央视'3·15'晚会曝光了银行卡小额免密免签（闪付）功能存在的安全隐患，记者实测发现POS机可隔着钱包盗刷银行卡，且多家银行默认开通该功能，未充分告知用户风险。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "中国银联",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "多家商业银行",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "银联闪付"
+    }
+  ],
+  "productType": 8,
+  "productList": [
+    {
+      "name": "默认开通风险",
+      "issueType": "银行默认开通闪付功能",
+      "remark": "多数用户不知情"
+    },
+    {
+      "name": "盗刷风险",
+      "issueType": "POS机可近距离感应扣款",
+      "remark": "实测隔着钱包可完成支付"
+    },
+    {
+      "name": "额度设置问题",
+      "issueType": "单笔免密限额1000元",
+      "remark": "单日累计金额较高"
+    },
+    {
+      "name": "风险告知不足",
+      "issueType": "未充分提示用户关闭渠道",
+      "remark": "关闭流程复杂"
+    }
+  ],
+  "penalty": {
+    "type": "整改要求",
+    "amount": "未公开",
+    "desc": "银联承诺优化服务，商业银行提供关闭渠道",
+    "response": "银联称'风险比率低于十万分之一'"
+  },
+  "followUp": {
+    "regulatory": "央行要求加强支付安全管理",
+    "brandRes": "各银行APP增加闪付功能管理入口"
+  }
+}

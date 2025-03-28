@@ -1,0 +1,59 @@
+{
+  "title": "银行存单变保单",
+  "exposureTime": "2015-03-15",
+  "industry": "金融服务",
+  "desc": "2015年央视'3·15'晚会曝光了部分银行工作人员违规将客户存款转为保险产品的问题，这些销售人员通过误导性话术诱使储户购买保险产品，导致储户资金被长期锁定且收益低于预期。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "中国工商银行",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "中国农业银行",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "中国邮政储蓄银行",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多家保险公司产品"
+    }
+  ],
+  "productType": 31,
+  "productList": [
+    {
+      "name": "误导销售",
+      "issueType": "将保险产品宣传为存款",
+      "remark": "隐瞒保险产品性质"
+    },
+    {
+      "name": "收益误导",
+      "issueType": "夸大预期收益",
+      "remark": "实际收益远低于承诺"
+    },
+    {
+      "name": "期限隐瞒",
+      "issueType": "未告知资金锁定期",
+      "remark": "提前取现需承担损失"
+    },
+    {
+      "name": "销售话术",
+      "issueType": "使用欺骗性话术",
+      "remark": "针对中老年储户"
+    }
+  ],
+  "penalty": {
+    "type": "整改、罚款",
+    "amount": "未公开",
+    "desc": "涉事银行被银监会要求整改",
+    "response": "银行承诺加强销售行为管理"
+  },
+  "followUp": {
+    "regulatory": "银监会出台《商业银行代理保险业务管理办法》",
+    "brandRes": "银行实行保险销售'双录'制度"
+  }
+}

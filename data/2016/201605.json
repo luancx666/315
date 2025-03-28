@@ -1,0 +1,51 @@
+{
+  "title": "公共免费WiFi窃取用户信息",
+  "exposureTime": "2016-03-15",
+  "industry": "网络安全",
+  "desc": "2016年央视'3·15'晚会曝光了部分公共场合的免费WiFi热点存在窃取用户隐私信息的严重安全隐患，黑客可通过这些网络轻易获取用户的账号密码、支付信息等敏感数据。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "未具名黑客组织",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "虚假公共WiFi"
+    }
+  ],
+  "productType": 25,
+  "productList": [
+    {
+      "name": "隐私窃取",
+      "issueType": "盗取用户账号密码",
+      "remark": "包括社交、支付等敏感信息"
+    },
+    {
+      "name": "中间人攻击",
+      "issueType": "篡改网络通信内容",
+      "remark": "可插入恶意代码"
+    },
+    {
+      "name": "钓鱼热点",
+      "issueType": "伪装成正规WiFi",
+      "remark": "使用相似名称诱导连接"
+    },
+    {
+      "name": "支付风险",
+      "issueType": "截获支付信息",
+      "remark": "可能导致资金被盗"
+    }
+  ],
+  "penalty": {
+    "type": "专项整治",
+    "amount": "未公开",
+    "desc": "公安机关开展网络安全整治行动",
+    "response": "相关责任人被追查"
+  },
+  "followUp": {
+    "regulatory": "网信办加强公共WiFi安全管理",
+    "brandRes": "运营商推出安全认证公共WiFi"
+  }
+}

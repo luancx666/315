@@ -1,0 +1,65 @@
+{
+  "title": "4S店小病大修牟取暴利",
+  "exposureTime": "2015-03-15",
+  "industry": "汽车维修",
+  "desc": "2015年央视'3·15'晚会曝光了多家汽车4S店存在'小病大修'、虚构故障等欺诈行为，通过过度维修和更换不必要的配件牟取暴利，严重损害消费者权益。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "东风日产4S店",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "上海大众4S店",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "奔驰4S店",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "东风日产"
+    },
+    {
+      "name": "上海大众"
+    },
+    {
+      "name": "奔驰"
+    }
+  ],
+  "productType": 26,
+  "productList": [
+    {
+      "name": "小病大修",
+      "issueType": "夸大故障程度",
+      "remark": "简单问题复杂化处理"
+    },
+    {
+      "name": "虚构故障",
+      "issueType": "谎报不存在的问题",
+      "remark": "诱导消费者更换配件"
+    },
+    {
+      "name": "高价更换配件",
+      "issueType": "强制更换非必要配件",
+      "remark": "配件价格虚高"
+    },
+    {
+      "name": "工时费虚高",
+      "issueType": "不合理收取高额工时费",
+      "remark": "远超行业标准"
+    }
+  ],
+  "penalty": {
+    "type": "约谈、整改",
+    "amount": "未公开",
+    "desc": "涉事4S店被工商部门约谈并要求整改",
+    "response": "车企承诺加强经销商管理"
+  },
+  "followUp": {
+    "regulatory": "交通运输部修订《机动车维修管理规定》",
+    "brandRes": "部分车企推出透明维修服务"
+  }
+}
