@@ -1,0 +1,51 @@
+{
+  "title": "非法传销活动泛滥",
+  "exposureTime": "1999-03-15",
+  "industry": "商业活动",
+  "desc": "1999年央视'3·15'晚会曝光了全国范围内非法传销活动猖獗的问题，这些组织以高额回报为诱饵发展下线，实则进行金融诈骗，严重扰乱经济秩序和社会稳定。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多个非法传销组织",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种传销产品"
+    }
+  ],
+  "productType": 94,
+  "productList": [
+    {
+      "name": "金字塔骗局",
+      "issueType": "以发展下线获利",
+      "remark": "实际无真实产品销售"
+    },
+    {
+      "name": "高额回报诱饵",
+      "issueType": "承诺快速致富",
+      "remark": "宣称'月入十万'"
+    },
+    {
+      "name": "洗脑培训",
+      "issueType": "精神控制参与者",
+      "remark": "封闭式授课"
+    },
+    {
+      "name": "社会危害",
+      "issueType": "导致家破人亡",
+      "remark": "参与者损失惨重"
+    }
+  ],
+  "penalty": {
+    "type": "打击、取缔",
+    "amount": "未公开",
+    "desc": "多个传销窝点被捣毁",
+    "response": "组织者被追究刑事责任"
+  },
+  "followUp": {
+    "regulatory": "国务院发布《关于禁止传销经营活动的通知》",
+    "brandRes": "公众提高对传销的识别能力"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "劣质皮鞋以次充好",
+  "exposureTime": "1992-03-15",
+  "industry": "制鞋业",
+  "desc": "1992年央视首次'3·15'晚会曝光了温州等地生产的劣质皮鞋以次充好问题，这些皮鞋使用纸板做内衬，穿几天就开裂，严重损害消费者权益。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "温州多家皮鞋厂",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种假冒名牌皮鞋"
+    }
+  ],
+  "productType": 109,
+  "productList": [
+    {
+      "name": "材料造假",
+      "issueType": "使用纸板做内衬",
+      "remark": "遇水即烂"
+    },
+    {
+      "name": "假冒品牌",
+      "issueType": "仿冒上海名牌",
+      "remark": "商标高度相似"
+    },
+    {
+      "name": "质量低劣",
+      "issueType": "穿着几天就坏",
+      "remark": "开胶、断底"
+    },
+    {
+      "name": "销售渠道",
+      "issueType": "流向全国市场",
+      "remark": "主要销往小商品市场"
+    }
+  ],
+  "penalty": {
+    "type": "查处、销毁",
+    "amount": "未公开",
+    "desc": "5000多双劣质鞋被当众焚烧",
+    "response": "温州开展质量整顿"
+  },
+  "followUp": {
+    "regulatory": "国家技术监督局加强皮鞋标准执行",
+    "brandRes": "温州鞋业重塑质量形象"
+  }
+}

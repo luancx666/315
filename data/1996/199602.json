@@ -1,0 +1,51 @@
+{
+  "title": "假种子坑农事件",
+  "exposureTime": "1996-03-15",
+  "industry": "农业生产资料",
+  "desc": "1996年央视'3·15'晚会曝光了河南、安徽等地发生的假种子坑农事件，不法分子销售劣质或假冒种子，导致数千亩农田绝收，农民损失惨重。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家种子公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种假冒种子"
+    }
+  ],
+  "productType": 103,
+  "productList": [
+    {
+      "name": "种子造假",
+      "issueType": "以次充好",
+      "remark": "发芽率不足30%"
+    },
+    {
+      "name": "假冒品牌",
+      "issueType": "仿冒知名品种",
+      "remark": "包装高度相似"
+    },
+    {
+      "name": "减产绝收",
+      "issueType": "农作物大面积死亡",
+      "remark": "导致数千亩绝收"
+    },
+    {
+      "name": "销售渠道",
+      "issueType": "主要流向农村",
+      "remark": "利用农民辨别能力弱"
+    }
+  ],
+  "penalty": {
+    "type": "查处、赔偿",
+    "amount": "未公开",
+    "desc": "涉事企业被查处并赔偿农民损失",
+    "response": "部分企业辩称'气候原因'"
+  },
+  "followUp": {
+    "regulatory": "农业部加强种子市场管理",
+    "brandRes": "正规种子企业加强防伪"
+  }
+}

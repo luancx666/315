@@ -1,0 +1,51 @@
+{
+  "title": "毒酒事件",
+  "exposureTime": "1991-03-15",
+  "industry": "酒类生产",
+  "desc": "1991年央视'3·15'晚会曝光了多起使用工业酒精勾兑白酒导致消费者中毒死亡的恶性事件，这些假酒含有大量甲醇，对人体危害极大。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家非法酿酒作坊",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种假冒白酒品牌"
+    }
+  ],
+  "productType": 113,
+  "productList": [
+    {
+      "name": "工业酒精勾兑",
+      "issueType": "使用含甲醇工业酒精",
+      "remark": "甲醇含量严重超标"
+    },
+    {
+      "name": "健康危害",
+      "issueType": "致盲、致死",
+      "remark": "多起中毒死亡案例"
+    },
+    {
+      "name": "假冒伪劣",
+      "issueType": "仿冒知名品牌",
+      "remark": "包装高度相似"
+    },
+    {
+      "name": "销售渠道",
+      "issueType": "流向农村市场",
+      "remark": "主要销往小商店"
+    }
+  ],
+  "penalty": {
+    "type": "刑事处罚",
+    "amount": "未公开",
+    "desc": "多名制假者被判处死刑",
+    "response": "全国开展酒类市场整顿"
+  },
+  "followUp": {
+    "regulatory": "国家技术监督局加强酒类生产许可",
+    "brandRes": "白酒企业加强防伪措施"
+  }
+}

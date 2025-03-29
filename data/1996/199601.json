@@ -1,0 +1,51 @@
+{
+  "title": "劣质燃气热水器安全隐患",
+  "exposureTime": "1996-03-15",
+  "industry": "家用电器",
+  "desc": "1996年央视'3·15'晚会曝光了市场上销售的劣质燃气热水器存在严重安全隐患，这些产品缺乏基本安全装置，导致多起一氧化碳中毒死亡事故。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家热水器生产厂家",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种无品牌热水器"
+    }
+  ],
+  "productType": 102,
+  "productList": [
+    {
+      "name": "安全缺陷",
+      "issueType": "无熄火保护装置",
+      "remark": "火焰熄灭后继续漏气"
+    },
+    {
+      "name": "中毒风险",
+      "issueType": "一氧化碳泄漏",
+      "remark": "导致多起死亡事故"
+    },
+    {
+      "name": "材料劣质",
+      "issueType": "使用不合格钢材",
+      "remark": "易腐蚀漏气"
+    },
+    {
+      "name": "无证生产",
+      "issueType": "未通过安全认证",
+      "remark": "属于三无产品"
+    }
+  ],
+  "penalty": {
+    "type": "查处、禁售",
+    "amount": "未公开",
+    "desc": "问题产品被强制下架，企业被查处",
+    "response": "部分厂家辩称'价格低廉'"
+  },
+  "followUp": {
+    "regulatory": "国家技术监督局发布《家用燃气快速热水器》强制标准",
+    "brandRes": "正规企业加强产品安全设计"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "农村集贸市场质量问题",
+  "exposureTime": "1991-03-15",
+  "industry": "商品流通",
+  "desc": "1991年央视'3·15'晚会曝光了农村集贸市场中普遍存在的假冒伪劣商品问题，这些劣质产品主要流向农村地区，严重损害农民消费者权益。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家小商品生产作坊",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种日用品品牌"
+    }
+  ],
+  "productType": 112,
+  "productList": [
+    {
+      "name": "假冒伪劣",
+      "issueType": "仿冒名牌产品",
+      "remark": "外观相似质量低劣"
+    },
+    {
+      "name": "食品安全",
+      "issueType": "劣质食品饮料",
+      "remark": "卫生指标不合格"
+    },
+    {
+      "name": "农资造假",
+      "issueType": "假种子假农药",
+      "remark": "导致农作物减产"
+    },
+    {
+      "name": "监管缺失",
+      "issueType": "农村市场监管薄弱",
+      "remark": "违法成本低"
+    }
+  ],
+  "penalty": {
+    "type": "专项整治",
+    "amount": "未公开",
+    "desc": "各地开展农村市场整治行动",
+    "response": "部分商家转移销售"
+  },
+  "followUp": {
+    "regulatory": "国家工商局加强农村市场监管",
+    "brandRes": "正规企业拓展农村销售网络"
+  }
+}

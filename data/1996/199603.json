@@ -1,0 +1,51 @@
+{
+  "title": "非法添加工业色素的食品",
+  "exposureTime": "1996-03-15",
+  "industry": "食品加工",
+  "desc": "1996年央视'3·15'晚会曝光了部分食品生产企业非法使用工业色素代替食用色素的问题，这些工业级添加剂含有重金属等有害物质，严重危害消费者健康。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家食品加工厂",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种食品品牌"
+    }
+  ],
+  "productType": 104,
+  "productList": [
+    {
+      "name": "非法添加",
+      "issueType": "使用工业色素",
+      "remark": "包括苏丹红等禁用物质"
+    },
+    {
+      "name": "健康危害",
+      "issueType": "重金属超标",
+      "remark": "可导致慢性中毒"
+    },
+    {
+      "name": "成本欺诈",
+      "issueType": "工业色素价格低廉",
+      "remark": "是食用色素的1/10"
+    },
+    {
+      "name": "产品外观",
+      "issueType": "颜色异常鲜艳",
+      "remark": "用于掩盖劣质原料"
+    }
+  ],
+  "penalty": {
+    "type": "查处、下架",
+    "amount": "未公开",
+    "desc": "问题产品被下架，企业被处罚",
+    "response": "部分企业辩称'不知情'"
+  },
+  "followUp": {
+    "regulatory": "卫生部修订《食品添加剂使用标准》",
+    "brandRes": "食品企业建立原料检测制度"
+  }
+}

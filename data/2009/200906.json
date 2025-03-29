@@ -1,0 +1,51 @@
+{
+  "title": "山寨范曾金币遭打假",
+  "exposureTime": "2009-03-15",
+  "industry": "收藏品",
+  "desc": "2009年央视'3·15'晚会曝光了市场上大量流通的所谓'范曾十二生肖金币'实为假冒产品，这些山寨金币以著名书画家范曾名义虚假宣传，实际含金量远低于标注值。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家假冒金币生产商",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "所谓'范曾金币'"
+    }
+  ],
+  "productType": 68,
+  "productList": [
+    {
+      "name": "假冒名人",
+      "issueType": "盗用范曾名义",
+      "remark": "未经授权使用姓名和作品"
+    },
+    {
+      "name": "含金量造假",
+      "issueType": "实际含金量不足",
+      "remark": "标注24K实际为镀金"
+    },
+    {
+      "name": "虚假证书",
+      "issueType": "伪造收藏证书",
+      "remark": "证书编号无法查询"
+    },
+    {
+      "name": "价格欺诈",
+      "issueType": "高价销售劣质品",
+      "remark": "售价是实际价值数十倍"
+    }
+  ],
+  "penalty": {
+    "type": "查处、下架",
+    "amount": "未公开",
+    "desc": "假冒产品被查处下架",
+    "response": "范曾工作室发表打假声明"
+  },
+  "followUp": {
+    "regulatory": "工商总局开展收藏品市场专项整治",
+    "brandRes": "正规机构加强收藏品认证"
+  }
+}

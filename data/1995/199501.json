@@ -1,0 +1,42 @@
+{
+  "title": "《消费者权益保护法》普法宣传",
+  "exposureTime": "1995-03-15",
+  "industry": "法律宣传",
+  "desc": "1995年央视'3·15'晚会重点宣传了1994年1月1日正式实施的《中华人民共和国消费者权益保护法》，通过典型案例普及消费者维权知识，提高全民维权意识。",
+  "url": "",
+  "companyList": [],
+  "brandList": [],
+  "productType": 105,
+  "productList": [
+    {
+      "name": "法律宣传",
+      "issueType": "普及消法知识",
+      "remark": "首次全国性大规模普法"
+    },
+    {
+      "name": "维权案例",
+      "issueType": "展示典型维权案例",
+      "remark": "包括产品质量、服务纠纷等"
+    },
+    {
+      "name": "消费者权利",
+      "issueType": "明确九项基本权利",
+      "remark": "如安全权、知情权等"
+    },
+    {
+      "name": "维权途径",
+      "issueType": "介绍投诉渠道",
+      "remark": "包括消协、行政部门等"
+    }
+  ],
+  "penalty": {
+    "type": "普法教育",
+    "amount": "无",
+    "desc": "全国范围开展消法宣传活动",
+    "response": "社会各界积极响应"
+  },
+  "followUp": {
+    "regulatory": "各地建立消费者协会",
+    "brandRes": "企业加强合规经营意识"
+  }
+}

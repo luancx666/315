@@ -1,0 +1,51 @@
+{
+  "title": "三鹿奶粉事件举国震惊",
+  "exposureTime": "2009-03-15",
+  "industry": "乳制品",
+  "desc": "2009年央视'3·15'晚会曝光了三鹿集团生产的婴幼儿配方奶粉中含有三聚氰胺，导致大量婴儿患肾结石，引发全国性食品安全危机。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "石家庄三鹿集团股份有限公司",
+      "legalPerson": "田文华"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "三鹿"
+    }
+  ],
+  "productType": 70,
+  "productList": [
+    {
+      "name": "三聚氰胺污染",
+      "issueType": "人为添加三聚氰胺",
+      "remark": "提高蛋白质检测值"
+    },
+    {
+      "name": "健康危害",
+      "issueType": "导致婴儿肾结石",
+      "remark": "全国超30万婴幼儿受害"
+    },
+    {
+      "name": "隐瞒事实",
+      "issueType": "长期隐瞒质量问题",
+      "remark": "拖延召回问题产品"
+    },
+    {
+      "name": "监管缺失",
+      "issueType": "检测环节形同虚设",
+      "remark": "质量管控完全失效"
+    }
+  ],
+  "penalty": {
+    "type": "破产、刑事处罚",
+    "amount": "未公开",
+    "desc": "三鹿集团破产，相关负责人被判刑",
+    "response": "田文华被判无期徒刑"
+  },
+  "followUp": {
+    "regulatory": "国务院颁布《乳品质量安全监督管理条例》",
+    "brandRes": "乳品行业全面整顿"
+  }
+}

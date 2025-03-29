@@ -1,0 +1,58 @@
+{
+  "title": "网秦手机卫士涉嫌恶意扣费",
+  "exposureTime": "2011-03-15",
+  "industry": "移动互联网",
+  "desc": "2011年央视'3·15'晚会曝光了网秦手机卫士与飞流下载软件合谋恶意扣费的问题，这些软件会在用户不知情的情况下自动发送付费短信，造成用户经济损失。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "网秦天下科技有限公司",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "北京飞流九天科技有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "网秦手机卫士"
+    },
+    {
+      "name": "飞流下载"
+    }
+  ],
+  "productType": 54,
+  "productList": [
+    {
+      "name": "恶意扣费",
+      "issueType": "自动发送付费短信",
+      "remark": "每条收费2元"
+    },
+    {
+      "name": "软件合谋",
+      "issueType": "网秦与飞流配合扣费",
+      "remark": "飞流下载病毒，网秦收费杀毒"
+    },
+    {
+      "name": "用户不知情",
+      "issueType": "后台静默操作",
+      "remark": "无任何提示"
+    },
+    {
+      "name": "卸载困难",
+      "issueType": "阻止用户卸载",
+      "remark": "自动重新安装"
+    }
+  ],
+  "penalty": {
+    "type": "下架、整改",
+    "amount": "未公开",
+    "desc": "涉事软件被应用商店下架",
+    "response": "网秦否认指控但进行产品调整"
+  },
+  "followUp": {
+    "regulatory": "工信部加强手机应用监管",
+    "brandRes": "应用商店完善审核机制"
+  }
+}

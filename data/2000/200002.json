@@ -1,0 +1,58 @@
+{
+  "title": "过期变质月饼馅料回炉",
+  "exposureTime": "2000-03-15",
+  "industry": "食品加工",
+  "desc": "2000年央视'3·15'晚会曝光了部分月饼生产企业使用过期变质的陈年馅料重新加工制作新月饼的违法行为，这些劣质月饼存在严重食品安全隐患。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "南京冠生园食品有限公司",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "其他涉事食品企业",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "冠生园"
+    },
+    {
+      "name": "其他月饼品牌"
+    }
+  ],
+  "productType": 91,
+  "productList": [
+    {
+      "name": "原料问题",
+      "issueType": "使用过期馅料",
+      "remark": "包括发霉变质的陈年馅"
+    },
+    {
+      "name": "回炉加工",
+      "issueType": "重新处理变质原料",
+      "remark": "去除霉变部分后使用"
+    },
+    {
+      "name": "卫生隐患",
+      "issueType": "黄曲霉素等超标",
+      "remark": "强致癌物风险"
+    },
+    {
+      "name": "生产环境",
+      "issueType": "车间卫生条件差",
+      "remark": "原料与垃圾混放"
+    }
+  ],
+  "penalty": {
+    "type": "查封、停产",
+    "amount": "未公开",
+    "desc": "涉事企业被查封，产品全部下架",
+    "response": "冠生园品牌声誉严重受损"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局加强月饼生产许可管理",
+    "brandRes": "食品行业建立原料溯源制度"
+  }
+}

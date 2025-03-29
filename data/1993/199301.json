@@ -1,0 +1,51 @@
+{
+  "title": "河南省周口第一兽药厂假药案",
+  "exposureTime": "1993-03-15",
+  "industry": "兽药生产",
+  "desc": "1993年央视'3·15'晚会曝光了河南省周口地区第一兽药厂长期生产销售假劣兽药的违法行为，这些假药无效甚至有害，给养殖业造成重大损失。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "河南省周口地区第一兽药厂",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种兽药产品"
+    }
+  ],
+  "productType": 107,
+  "productList": [
+    {
+      "name": "假药生产",
+      "issueType": "有效成分不足或缺失",
+      "remark": "部分产品仅为淀粉"
+    },
+    {
+      "name": "伪造批号",
+      "issueType": "假冒批准文号",
+      "remark": "无合法生产资质"
+    },
+    {
+      "name": "养殖危害",
+      "issueType": "延误动物疾病治疗",
+      "remark": "导致大批牲畜死亡"
+    },
+    {
+      "name": "销售网络",
+      "issueType": "销往多省养殖场",
+      "remark": "持续时间长达5年"
+    }
+  ],
+  "penalty": {
+    "type": "查封、刑事处罚",
+    "amount": "未公开",
+    "desc": "药厂被查封，负责人被判刑",
+    "response": "当地政府开展专项整治"
+  },
+  "followUp": {
+    "regulatory": "农业部加强兽药生产许可管理",
+    "brandRes": "正规兽药企业加强质量管控"
+  }
+}

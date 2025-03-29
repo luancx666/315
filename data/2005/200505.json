@@ -1,0 +1,51 @@
+{
+  "title": "打着企业海外上市名义进行欺诈",
+  "exposureTime": "2005-03-15",
+  "industry": "金融投资",
+  "desc": "2005年央视'3·15'晚会曝光了部分机构以企业即将海外上市为名，通过推销所谓'原始股'实施诈骗的行为，这些骗局导致大量投资者血本无归。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家所谓'投资咨询公司'",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种虚构企业'原始股'"
+    }
+  ],
+  "productType": 83,
+  "productList": [
+    {
+      "name": "虚假承诺",
+      "issueType": "承诺高额回报",
+      "remark": "宣称'上市后翻数倍'"
+    },
+    {
+      "name": "伪造材料",
+      "issueType": "制作虚假上市文件",
+      "remark": "包括假审计报告等"
+    },
+    {
+      "name": "销售骗局",
+      "issueType": "推销无法流通的股权",
+      "remark": "实际无法上市交易"
+    },
+    {
+      "name": "目标群体",
+      "issueType": "主要针对中老年人",
+      "remark": "利用信息不对称"
+    }
+  ],
+  "penalty": {
+    "type": "查处、刑事立案",
+    "amount": "未公开",
+    "desc": "多个诈骗团伙被捣毁",
+    "response": "涉案人员被追究刑事责任"
+  },
+  "followUp": {
+    "regulatory": "证监会加强非法证券活动打击",
+    "brandRes": "金融机构加强投资者教育"
+  }
+}

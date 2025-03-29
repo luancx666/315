@@ -1,0 +1,51 @@
+{
+  "title": "分众传媒垃圾短信推送",
+  "exposureTime": "2008-03-15",
+  "industry": "广告传媒",
+  "desc": "2008年央视'3·15'晚会曝光了分众传媒旗下公司未经用户同意大量发送商业广告短信，这些垃圾短信严重干扰用户正常生活，且用户无法退订。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "分众传媒控股有限公司",
+      "legalPerson": "江南春"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "分众无线"
+    }
+  ],
+  "productType": 74,
+  "productList": [
+    {
+      "name": "垃圾短信轰炸",
+      "issueType": "日均发送数亿条广告",
+      "remark": "包括房产、金融等广告"
+    },
+    {
+      "name": "无法退订",
+      "issueType": "退订指令无效",
+      "remark": "用户持续收到广告"
+    },
+    {
+      "name": "隐私侵犯",
+      "issueType": "非法获取用户信息",
+      "remark": "包括手机号等个人信息"
+    },
+    {
+      "name": "内容低俗",
+      "issueType": "部分广告内容违规",
+      "remark": "包含不良信息"
+    }
+  ],
+  "penalty": {
+    "type": "整改、业务关停",
+    "amount": "未公开",
+    "desc": "分众无线业务被关停",
+    "response": "分众传媒公开道歉"
+  },
+  "followUp": {
+    "regulatory": "工信部加强短信广告管理",
+    "brandRes": "广告行业规范短信推送标准"
+  }
+}

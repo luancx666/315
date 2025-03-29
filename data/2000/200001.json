@@ -1,0 +1,51 @@
+{
+  "title": "OK镜致盲事件",
+  "exposureTime": "2000-03-15",
+  "industry": "医疗器械",
+  "desc": "2000年央视'3·15'晚会曝光了OK镜（角膜塑形镜）因产品质量和验配不当导致使用者角膜损伤甚至失明的严重事件，揭露了该行业存在的监管漏洞和乱象。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家OK镜生产销售企业",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种OK镜品牌"
+    }
+  ],
+  "productType": 90,
+  "productList": [
+    {
+      "name": "产品质量",
+      "issueType": "镜片透氧性不达标",
+      "remark": "导致角膜缺氧"
+    },
+    {
+      "name": "验配不当",
+      "issueType": "非专业机构验配",
+      "remark": "缺乏专业眼科医生"
+    },
+    {
+      "name": "健康危害",
+      "issueType": "角膜溃疡、穿孔",
+      "remark": "严重者可致盲"
+    },
+    {
+      "name": "虚假宣传",
+      "issueType": "夸大治疗效果",
+      "remark": "宣称'彻底治愈近视'"
+    }
+  ],
+  "penalty": {
+    "type": "查处、整顿",
+    "amount": "未公开",
+    "desc": "违规企业被查处，产品被下架",
+    "response": "部分企业辩称'使用不当'"
+  },
+  "followUp": {
+    "regulatory": "国家药监局将OK镜纳入Ⅲ类医疗器械管理",
+    "brandRes": "医疗机构规范验配流程"
+  }
+}

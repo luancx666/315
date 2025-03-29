@@ -1,0 +1,51 @@
+{
+  "title": "4S店销售与维修潜规则",
+  "exposureTime": "2011-03-15",
+  "industry": "汽车服务",
+  "desc": "2011年央视'3·15'晚会曝光了多家汽车4S店存在的销售欺诈与维修乱象，包括强制搭售、过度维修等违规行为，严重损害消费者权益。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家品牌4S店",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多个汽车品牌4S店"
+    }
+  ],
+  "productType": 53,
+  "productList": [
+    {
+      "name": "强制搭售",
+      "issueType": "捆绑销售保险和装潢",
+      "remark": "不购买就无法提车"
+    },
+    {
+      "name": "过度维修",
+      "issueType": "小病大修虚增项目",
+      "remark": "夸大故障程度"
+    },
+    {
+      "name": "配件暴利",
+      "issueType": "高价销售原厂配件",
+      "remark": "价格是成本数倍"
+    },
+    {
+      "name": "以旧充新",
+      "issueType": "使用翻新件冒充新件",
+      "remark": "收取新件费用"
+    }
+  ],
+  "penalty": {
+    "type": "整改、约谈",
+    "amount": "未公开",
+    "desc": "涉事4S店被要求整改，车企加强监管",
+    "response": "部分车企称将规范经销商行为"
+  },
+  "followUp": {
+    "regulatory": "工商总局开展汽车销售维修专项整治",
+    "brandRes": "车企建立统一服务标准"
+  }
+}

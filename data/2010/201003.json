@@ -1,0 +1,51 @@
+{
+  "title": "碱性钙离子水虚假宣传",
+  "exposureTime": "2010-03-15",
+  "industry": "饮用水",
+  "desc": "2010年央视'3·15'晚会曝光了部分厂商生产的所谓'碱性钙离子水'存在虚假宣传问题，这些产品宣称具有治疗功效，实际只是普通饮用水，且部分产品水质不达标。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家饮用水生产企业",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种碱性水品牌"
+    }
+  ],
+  "productType": 59,
+  "productList": [
+    {
+      "name": "虚假宣传",
+      "issueType": "夸大治疗功效",
+      "remark": "宣称能治疗多种疾病"
+    },
+    {
+      "name": "概念炒作",
+      "issueType": "伪科学宣传",
+      "remark": "无医学依据支持"
+    },
+    {
+      "name": "水质问题",
+      "issueType": "部分指标不达标",
+      "remark": "菌落总数超标"
+    },
+    {
+      "name": "价格欺诈",
+      "issueType": "高价销售普通水",
+      "remark": "价格是普通水10倍"
+    }
+  ],
+  "penalty": {
+    "type": "下架、整改",
+    "amount": "未公开",
+    "desc": "问题产品被下架，企业被要求整改",
+    "response": "厂商辩称'宣传用语不当'"
+  },
+  "followUp": {
+    "regulatory": "国家工商总局规范饮用水广告宣传",
+    "brandRes": "正规水企明确标注产品真实属性"
+  }
+}

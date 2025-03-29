@@ -1,0 +1,55 @@
+{
+  "title": "虚假广告误导消费者",
+  "exposureTime": "1992-03-15",
+  "industry": "广告",
+  "desc": "1992年央视首次'3·15'晚会曝光了电视、报纸等媒体上大量存在的虚假广告问题，这些广告夸大产品功效，使用虚假证明，严重误导消费者。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家广告主企业",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "部分广告公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种涉假产品"
+    }
+  ],
+  "productType": 110,
+  "productList": [
+    {
+      "name": "功效夸大",
+      "issueType": "宣称神奇疗效",
+      "remark": "如'包治百病'"
+    },
+    {
+      "name": "伪造证明",
+      "issueType": "使用虚假检测报告",
+      "remark": "假冒权威机构"
+    },
+    {
+      "name": "名人代言",
+      "issueType": "利用明星效应",
+      "remark": "未实际使用产品"
+    },
+    {
+      "name": "消费者误导",
+      "issueType": "诱导错误消费",
+      "remark": "造成经济损失"
+    }
+  ],
+  "penalty": {
+    "type": "整改、处罚",
+    "amount": "未公开",
+    "desc": "违规广告被停播，企业被警告",
+    "response": "部分媒体加强审核"
+  },
+  "followUp": {
+    "regulatory": "国家工商局出台《广告审查标准》",
+    "brandRes": "媒体建立广告内容审核机制"
+  }
+}

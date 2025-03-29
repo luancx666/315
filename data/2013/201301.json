@@ -1,0 +1,51 @@
+{
+  "title": "苹果手机售后服务中外双重标准",
+  "exposureTime": "2013-03-15",
+  "industry": "电子产品",
+  "desc": "2013年央视'3·15'晚会曝光了苹果公司在中国市场实施的售后服务政策存在歧视性条款，与欧美国家相比，中国消费者在保修期限、更换条件等方面受到不公平对待。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "苹果电脑贸易（上海）有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "苹果iPhone"
+    }
+  ],
+  "productType": 39,
+  "productList": [
+    {
+      "name": "保修期限差异",
+      "issueType": "中国保修期短于欧美",
+      "remark": "整机1年vs欧美2年"
+    },
+    {
+      "name": "换机政策歧视",
+      "issueType": "中国不换后盖",
+      "remark": "欧美整机更换"
+    },
+    {
+      "name": "保修期计算",
+      "issueType": "中国维修后不重新计算",
+      "remark": "欧美重新计算保修期"
+    },
+    {
+      "name": "维修条款不公",
+      "issueType": "中国使用翻新部件",
+      "remark": "欧美使用全新部件"
+    }
+  ],
+  "penalty": {
+    "type": "整改",
+    "amount": "未公开",
+    "desc": "苹果公司被要求修改在华售后政策",
+    "response": "苹果中国发布致歉声明并调整政策"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局约谈苹果公司",
+    "brandRes": "苹果统一全球部分售后服务标准"
+  }
+}

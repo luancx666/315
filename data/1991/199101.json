@@ -1,0 +1,51 @@
+{
+  "title": "首届315晚会曝光不合格劣质电器",
+  "exposureTime": "1991-03-15",
+  "industry": "家用电器",
+  "desc": "1991年央视首次举办'3·15'国际消费者权益日晚会，曝光了市场上销售的多款不合格劣质电器产品，这些产品存在严重安全隐患，引发社会广泛关注。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家电器生产厂家",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种无品牌电器"
+    }
+  ],
+  "productType": 111,
+  "productList": [
+    {
+      "name": "安全隐患",
+      "issueType": "漏电风险高",
+      "remark": "绝缘性能不达标"
+    },
+    {
+      "name": "材料劣质",
+      "issueType": "使用回收塑料",
+      "remark": "易融化起火"
+    },
+    {
+      "name": "无证生产",
+      "issueType": "未经安全认证",
+      "remark": "属于三无产品"
+    },
+    {
+      "name": "使用寿命短",
+      "issueType": "快速损坏",
+      "remark": "使用几次即报废"
+    }
+  ],
+  "penalty": {
+    "type": "曝光、查处",
+    "amount": "无",
+    "desc": "引发全国关注，推动行业整顿",
+    "response": "企业开始重视产品质量"
+  },
+  "followUp": {
+    "regulatory": "国家技术监督局加强电器安全标准",
+    "brandRes": "央视'3·15'晚会成为年度品牌活动"
+  }
+}

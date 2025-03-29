@@ -1,0 +1,51 @@
+{
+  "title": "虚假抗癌药品宣传",
+  "exposureTime": "2005-03-15",
+  "industry": "医药",
+  "desc": "2005年央视'3·15'晚会曝光了多种所谓'抗癌特效药'存在虚假宣传问题，这些产品未经临床验证，通过夸大疗效和伪造专家推荐欺骗癌症患者，延误正规治疗。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家药品生产企业",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种所谓'抗癌药'"
+    }
+  ],
+  "productType": 82,
+  "productList": [
+    {
+      "name": "虚假宣传",
+      "issueType": "夸大治疗效果",
+      "remark": "宣称'治愈率90%'等"
+    },
+    {
+      "name": "伪造资质",
+      "issueType": "假冒药品批号",
+      "remark": "无国家药监局批准"
+    },
+    {
+      "name": "专家造假",
+      "issueType": "虚构专家推荐",
+      "remark": "使用演员冒充专家"
+    },
+    {
+      "name": "延误治疗",
+      "issueType": "患者错过最佳治疗期",
+      "remark": "造成不可逆伤害"
+    }
+  ],
+  "penalty": {
+    "type": "查处、取缔",
+    "amount": "未公开",
+    "desc": "问题产品被查处，企业被取缔",
+    "response": "涉案人员被追究刑责"
+  },
+  "followUp": {
+    "regulatory": "国家药监局加强抗癌药品审批监管",
+    "brandRes": "正规医院加强患者用药指导"
+  }
+}

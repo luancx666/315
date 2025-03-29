@@ -1,0 +1,51 @@
+{
+  "title": "一批国家抽检不合格奶制品",
+  "exposureTime": "2002-03-15",
+  "industry": "乳制品",
+  "desc": "2002年央视'3·15'晚会曝光了国家质检总局抽检发现的一批不合格奶制品，这些产品卫生指标和营养成分严重不达标，对消费者健康构成潜在威胁。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家乳品生产企业",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种未具名奶制品"
+    }
+  ],
+  "productType": 88,
+  "productList": [
+    {
+      "name": "卫生不达标",
+      "issueType": "菌落总数超标",
+      "remark": "最高超标数十倍"
+    },
+    {
+      "name": "营养不足",
+      "issueType": "蛋白质含量低",
+      "remark": "未达到国家标准"
+    },
+    {
+      "name": "添加剂滥用",
+      "issueType": "过量使用防腐剂",
+      "remark": "超出安全限量"
+    },
+    {
+      "name": "虚假标注",
+      "issueType": "成分标识不实",
+      "remark": "实际含量与标注不符"
+    }
+  ],
+  "penalty": {
+    "type": "下架、整改",
+    "amount": "未公开",
+    "desc": "问题产品被强制下架，企业被要求整改",
+    "response": "部分企业辩称'检测标准不同'"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局加强乳制品抽查频次",
+    "brandRes": "乳品企业完善质量管控体系"
+  }
+}

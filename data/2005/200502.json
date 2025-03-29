@@ -1,0 +1,51 @@
+{
+  "title": "有毒化妆品汞超标",
+  "exposureTime": "2005-03-15",
+  "industry": "化妆品",
+  "desc": "2005年央视'3·15'晚会曝光了部分美白祛斑化妆品汞含量严重超标的问题，这些产品为追求快速美白效果违规添加重金属，长期使用会导致汞中毒，危害消费者健康。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家化妆品生产企业",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种美白祛斑产品"
+    }
+  ],
+  "productType": 80,
+  "productList": [
+    {
+      "name": "汞超标",
+      "issueType": "重金属含量超标",
+      "remark": "最高超标数万倍"
+    },
+    {
+      "name": "健康危害",
+      "issueType": "导致汞中毒",
+      "remark": "损害神经系统和肾脏"
+    },
+    {
+      "name": "虚假宣传",
+      "issueType": "宣称'纯天然'",
+      "remark": "实际含有违禁成分"
+    },
+    {
+      "name": "快速美白陷阱",
+      "issueType": "追求短期效果",
+      "remark": "以损害健康为代价"
+    }
+  ],
+  "penalty": {
+    "type": "查处、下架",
+    "amount": "未公开",
+    "desc": "问题产品被强制下架，企业被查处",
+    "response": "部分企业辩称'不知情'"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局修订《化妆品卫生规范》",
+    "brandRes": "正规企业加强原料检测"
+  }
+}

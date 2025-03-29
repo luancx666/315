@@ -1,0 +1,51 @@
+{
+  "title": "欧典地板欺诈消费者",
+  "exposureTime": "2006-03-15",
+  "industry": "家居建材",
+  "desc": "2006年央视'3·15'晚会曝光了欧典地板虚假宣传'德国制造'，实际为国内生产，通过编造德国百年品牌历史高价销售，构成对消费者的欺诈。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "北京欧德装饰材料有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "欧典地板"
+    }
+  ],
+  "productType": 77,
+  "productList": [
+    {
+      "name": "产地造假",
+      "issueType": "虚构德国制造",
+      "remark": "实际为北京通州生产"
+    },
+    {
+      "name": "品牌虚构",
+      "issueType": "编造德国百年历史",
+      "remark": "宣称'创建于1903年'"
+    },
+    {
+      "name": "价格欺诈",
+      "issueType": "高价销售普通地板",
+      "remark": "售价是成本5倍以上"
+    },
+    {
+      "name": "质量不符",
+      "issueType": "实际质量与宣传不符",
+      "remark": "并非宣称的'顶级产品'"
+    }
+  ],
+  "penalty": {
+    "type": "罚款、整改",
+    "amount": "747万元",
+    "desc": "企业被工商部门处罚，产品下架",
+    "response": "欧典承认宣传失实"
+  },
+  "followUp": {
+    "regulatory": "国家工商总局加强建材行业监管",
+    "brandRes": "建材行业规范产地标识"
+  }
+}

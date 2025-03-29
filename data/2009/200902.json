@@ -1,0 +1,51 @@
+{
+  "title": "通州某电话推销公司诈骗",
+  "exposureTime": "2009-03-15",
+  "industry": "电话营销",
+  "desc": "2009年央视'3·15'晚会曝光了北京通州某电话推销公司通过虚假宣传、恐吓威胁等手段诱骗消费者购买劣质收藏品、保健品等产品，涉案金额巨大。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "北京通州某电话营销公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种虚构收藏品品牌"
+    }
+  ],
+  "productType": 64,
+  "productList": [
+    {
+      "name": "虚假宣传",
+      "issueType": "虚构产品价值",
+      "remark": "将廉价品包装成珍贵收藏品"
+    },
+    {
+      "name": "恐吓营销",
+      "issueType": "冒充公检法威胁",
+      "remark": "声称不购买将面临法律后果"
+    },
+    {
+      "name": "价格欺诈",
+      "issueType": "虚高定价",
+      "remark": "售价是成本价的数十倍"
+    },
+    {
+      "name": "产品质量",
+      "issueType": "销售劣质产品",
+      "remark": "无任何收藏或使用价值"
+    }
+  ],
+  "penalty": {
+    "type": "查封、刑事立案",
+    "amount": "未公开",
+    "desc": "公司被查封，负责人被控制",
+    "response": "涉案人员被追究刑事责任"
+  },
+  "followUp": {
+    "regulatory": "工商总局加强电话营销监管",
+    "brandRes": "运营商加强骚扰电话拦截"
+  }
+}

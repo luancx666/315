@@ -1,0 +1,51 @@
+{
+  "title": "非法传销活动曝光",
+  "exposureTime": "1997-03-15",
+  "industry": "商业活动",
+  "desc": "1997年央视'3·15'晚会首次大规模曝光了国内非法传销活动的运作模式，揭露了这些组织以高额回报为诱饵、实则进行金融诈骗的本质，引发社会广泛关注。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多个非法传销组织",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种传销产品"
+    }
+  ],
+  "productType": 99,
+  "productList": [
+    {
+      "name": "金字塔骗局",
+      "issueType": "以发展下线获利",
+      "remark": "实际无真实产品"
+    },
+    {
+      "name": "高额回报诱饵",
+      "issueType": "承诺快速致富",
+      "remark": "宣称'短期暴富'"
+    },
+    {
+      "name": "洗脑培训",
+      "issueType": "精神控制参与者",
+      "remark": "灌输'成功学'"
+    },
+    {
+      "name": "社会危害",
+      "issueType": "扰乱经济秩序",
+      "remark": "导致大量纠纷"
+    }
+  ],
+  "penalty": {
+    "type": "打击、取缔",
+    "amount": "未公开",
+    "desc": "多个传销组织被取缔",
+    "response": "部分组织者逃往境外"
+  },
+  "followUp": {
+    "regulatory": "国家工商局开始研究制定传销管理办法",
+    "brandRes": "公众开始认识传销危害"
+  }
+}

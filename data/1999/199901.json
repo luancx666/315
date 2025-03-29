@@ -1,0 +1,51 @@
+{
+  "title": "山西朔州假酒案",
+  "exposureTime": "1999-03-15",
+  "industry": "酒类生产",
+  "desc": "1999年央视'3·15'晚会曝光了山西朔州发生的特大假酒案，不法分子使用工业甲醇勾兑白酒，导致多人中毒死亡，震惊全国。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "朔州多个假酒作坊",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种假冒白酒品牌"
+    }
+  ],
+  "productType": 93,
+  "productList": [
+    {
+      "name": "工业甲醇勾兑",
+      "issueType": "使用有毒原料",
+      "remark": "甲醇含量超标数百倍"
+    },
+    {
+      "name": "健康危害",
+      "issueType": "致盲、致死",
+      "remark": "造成27人死亡"
+    },
+    {
+      "name": "假冒伪劣",
+      "issueType": "仿冒知名品牌",
+      "remark": "包装以假乱真"
+    },
+    {
+      "name": "销售渠道",
+      "issueType": "流向农村市场",
+      "remark": "主要销往小卖部"
+    }
+  ],
+  "penalty": {
+    "type": "刑事处罚",
+    "amount": "未公开",
+    "desc": "6名主犯被判处死刑",
+    "response": "当地政府全面整顿酒类市场"
+  },
+  "followUp": {
+    "regulatory": "国家经贸委发布《酒类流通管理办法》",
+    "brandRes": "白酒行业建立溯源体系"
+  }
+}

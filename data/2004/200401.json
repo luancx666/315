@@ -1,0 +1,55 @@
+{
+  "title": "抗生素危机问题",
+  "exposureTime": "2004-03-15",
+  "industry": "医疗健康",
+  "desc": "2004年央视'3·15'晚会曝光了我国抗生素滥用问题，包括医院过度使用、养殖业违规添加等现象，导致细菌耐药性增强，严重威胁公共健康安全。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家医疗机构",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "部分养殖企业",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种抗生素药品"
+    }
+  ],
+  "productType": 84,
+  "productList": [
+    {
+      "name": "医疗滥用",
+      "issueType": "过度使用抗生素",
+      "remark": "门诊处方占比超50%"
+    },
+    {
+      "name": "养殖添加",
+      "issueType": "饲料中违规添加",
+      "remark": "用于促生长防病"
+    },
+    {
+      "name": "耐药性危机",
+      "issueType": "超级细菌出现",
+      "remark": "部分感染无药可治"
+    },
+    {
+      "name": "利益驱动",
+      "issueType": "医生开药提成",
+      "remark": "导致不合理用药"
+    }
+  ],
+  "penalty": {
+    "type": "规范、限制",
+    "amount": "未公开",
+    "desc": "卫生部门出台抗生素使用规范",
+    "response": "医疗机构承诺加强用药管理"
+  },
+  "followUp": {
+    "regulatory": "卫生部发布《抗菌药物临床应用指导原则》",
+    "brandRes": "医院建立抗生素分级管理制度"
+  }
+}

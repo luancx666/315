@@ -1,0 +1,55 @@
+{
+  "title": "瘦肉精猪肉事件",
+  "exposureTime": "2011-03-15",
+  "industry": "畜牧养殖",
+  "desc": "2011年央视'3·15'晚会曝光了河南双汇等企业使用含有'瘦肉精'的生猪问题，这些违禁药物会残留在猪肉中，长期食用可能引发中毒，严重危害消费者健康。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "河南双汇投资发展股份有限公司",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "部分生猪养殖场",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "双汇"
+    }
+  ],
+  "productType": 51,
+  "productList": [
+    {
+      "name": "使用瘦肉精",
+      "issueType": "饲喂违禁药物",
+      "remark": "包括盐酸克伦特罗等"
+    },
+    {
+      "name": "药物残留",
+      "issueType": "猪肉中检出瘦肉精",
+      "remark": "超出国家标准"
+    },
+    {
+      "name": "健康危害",
+      "issueType": "可能引发中毒",
+      "remark": "导致心悸、肌肉震颤等"
+    },
+    {
+      "name": "检测规避",
+      "issueType": "逃避检疫检查",
+      "remark": "使用各种手段蒙混过关"
+    }
+  ],
+  "penalty": {
+    "type": "停产整顿、刑事立案",
+    "amount": "未公开",
+    "desc": "涉事企业停产整顿，相关人员被刑拘",
+    "response": "双汇致歉并召回问题产品"
+  },
+  "followUp": {
+    "regulatory": "农业部开展瘦肉精专项整治",
+    "brandRes": "屠宰企业建立更严格检测制度"
+  }
+}

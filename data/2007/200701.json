@@ -1,0 +1,51 @@
+{
+  "title": "藏秘排油减肥茶虚假宣传",
+  "exposureTime": "2007-03-15",
+  "industry": "保健品",
+  "desc": "2007年央视'3·15'晚会曝光了藏秘排油减肥茶存在严重虚假宣传问题，该产品通过明星代言和夸大功效误导消费者，实际减肥效果与宣传严重不符。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "北京澳特舒尔保健品开发有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "藏秘排油"
+    }
+  ],
+  "productType": 75,
+  "productList": [
+    {
+      "name": "虚假宣传",
+      "issueType": "夸大减肥效果",
+      "remark": "宣称'抹平大肚子'"
+    },
+    {
+      "name": "明星代言误导",
+      "issueType": "利用名人效应",
+      "remark": "郭德纲等明星代言"
+    },
+    {
+      "name": "资质问题",
+      "issueType": "冒用藏药概念",
+      "remark": "实际与藏药无关"
+    },
+    {
+      "name": "效果不符",
+      "issueType": "实际减肥效果差",
+      "remark": "消费者投诉无效"
+    }
+  ],
+  "penalty": {
+    "type": "下架、罚款",
+    "amount": "未公开",
+    "desc": "产品被强制下架，企业被处罚",
+    "response": "企业辩称'广告存在夸大'"
+  },
+  "followUp": {
+    "regulatory": "国家工商总局加强明星代言监管",
+    "brandRes": "保健品行业规范广告宣传"
+  }
+}

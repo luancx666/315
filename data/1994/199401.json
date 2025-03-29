@@ -1,0 +1,51 @@
+{
+  "title": "奥梦达羽绒被造假事件",
+  "exposureTime": "1994-03-15",
+  "industry": "家纺",
+  "desc": "1994年央视'3·15'晚会曝光了奥梦达羽绒被使用粉碎毛、化纤等劣质材料冒充优质羽绒的问题，这些产品保暖性差且存在卫生隐患，欺骗消费者。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "奥梦达家纺有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "奥梦达"
+    }
+  ],
+  "productType": 106,
+  "productList": [
+    {
+      "name": "原料造假",
+      "issueType": "使用粉碎毛冒充羽绒",
+      "remark": "实际含绒量不足30%"
+    },
+    {
+      "name": "卫生隐患",
+      "issueType": "未经消毒处理",
+      "remark": "可能引发过敏"
+    },
+    {
+      "name": "虚假标注",
+      "issueType": "标称'90%白鹅绒'",
+      "remark": "实际检测不达标"
+    },
+    {
+      "name": "价格欺诈",
+      "issueType": "高价销售劣质品",
+      "remark": "售价是成本的10倍"
+    }
+  ],
+  "penalty": {
+    "type": "查处、赔偿",
+    "amount": "未公开",
+    "desc": "产品下架，企业赔偿消费者",
+    "response": "奥梦达承认质量问题"
+  },
+  "followUp": {
+    "regulatory": "国家技术监督局修订《羽绒制品》标准",
+    "brandRes": "家纺行业加强质量自律"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "金华火腿'敌敌畏泡制'事件",
+  "exposureTime": "2003-03-15",
+  "industry": "食品加工",
+  "desc": "2003年央视'3·15'晚会曝光了浙江金华部分火腿生产厂家使用敌敌畏等剧毒农药浸泡火腿防虫的违法行为，这些有毒火腿流入市场对消费者健康构成严重威胁。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "金华市部分火腿加工厂",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种金华火腿品牌"
+    }
+  ],
+  "productType": 87,
+  "productList": [
+    {
+      "name": "违法添加",
+      "issueType": "使用敌敌畏浸泡",
+      "remark": "防止蝇虫靠近"
+    },
+    {
+      "name": "健康危害",
+      "issueType": "农药残留超标",
+      "remark": "长期食用可致癌"
+    },
+    {
+      "name": "生产环境",
+      "issueType": "卫生条件恶劣",
+      "remark": "苍蝇乱飞、污水横流"
+    },
+    {
+      "name": "行业潜规则",
+      "issueType": "部分企业效仿",
+      "remark": "为降低成本铤而走险"
+    }
+  ],
+  "penalty": {
+    "type": "查封、刑事处罚",
+    "amount": "未公开",
+    "desc": "涉事企业被查封，责任人被判刑",
+    "response": "当地政府开展专项整治"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局加强火腿产品检测",
+    "brandRes": "金华火腿行业建立溯源体系"
+  }
+}

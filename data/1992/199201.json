@@ -1,0 +1,51 @@
+{
+  "title": "假冒伪劣电器产品",
+  "exposureTime": "1992-03-15",
+  "industry": "家用电器",
+  "desc": "1992年央视首次'3·15'晚会曝光了市场上泛滥的假冒伪劣电器产品，这些产品存在严重安全隐患，极易引发火灾和触电事故，威胁消费者生命安全。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家电器生产作坊",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种假冒名牌电器"
+    }
+  ],
+  "productType": 108,
+  "productList": [
+    {
+      "name": "安全隐患",
+      "issueType": "绝缘性能差",
+      "remark": "漏电风险高"
+    },
+    {
+      "name": "假冒品牌",
+      "issueType": "仿冒知名品牌",
+      "remark": "外观高度相似"
+    },
+    {
+      "name": "材料劣质",
+      "issueType": "使用回收塑料",
+      "remark": "易融化起火"
+    },
+    {
+      "name": "无证生产",
+      "issueType": "未经安全认证",
+      "remark": "属于三无产品"
+    }
+  ],
+  "penalty": {
+    "type": "查处、销毁",
+    "amount": "未公开",
+    "desc": "伪劣产品被集中销毁",
+    "response": "部分商家转移窝点"
+  },
+  "followUp": {
+    "regulatory": "国家技术监督局建立电器安全认证制度",
+    "brandRes": "正规企业加强防伪措施"
+  }
+}

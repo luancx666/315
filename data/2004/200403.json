@@ -1,0 +1,51 @@
+{
+  "title": "伪劣婴儿奶粉事件",
+  "exposureTime": "2004-03-15",
+  "industry": "乳制品",
+  "desc": "2004年央视'3·15'晚会曝光了安徽阜阳等地出现的伪劣婴儿奶粉导致'大头娃娃'事件，这些奶粉蛋白质含量严重不足，造成婴幼儿营养不良甚至死亡。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家伪劣奶粉生产商",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种未具名奶粉品牌"
+    }
+  ],
+  "productType": 86,
+  "productList": [
+    {
+      "name": "营养不足",
+      "issueType": "蛋白质含量极低",
+      "remark": "仅为标准值的1/6"
+    },
+    {
+      "name": "健康危害",
+      "issueType": "导致'大头娃娃'",
+      "remark": "造成婴幼儿发育障碍"
+    },
+    {
+      "name": "假冒伪劣",
+      "issueType": "伪造生产许可证",
+      "remark": "无任何质量保障"
+    },
+    {
+      "name": "销售渠道",
+      "issueType": "主要流向农村市场",
+      "remark": "利用监管薄弱环节"
+    }
+  ],
+  "penalty": {
+    "type": "查处、刑事处罚",
+    "amount": "未公开",
+    "desc": "54名责任人被处理，企业被查封",
+    "response": "部分官员被追究渎职责任"
+  },
+  "followUp": {
+    "regulatory": "国务院颁布《乳品质量安全监督管理条例》",
+    "brandRes": "乳品行业全面整顿"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "大众DSG变速箱设计缺陷",
+  "exposureTime": "2011-03-15",
+  "industry": "汽车制造",
+  "desc": "2011年央视'3·15'晚会曝光了大众汽车DSG双离合变速箱存在的设计缺陷问题，该变速箱在使用过程中会出现顿挫、动力中断等故障，严重影响行车安全。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "大众汽车（中国）投资有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "大众"
+    },
+    {
+      "name": "斯柯达"
+    }
+  ],
+  "productType": 56,
+  "productList": [
+    {
+      "name": "变速箱顿挫",
+      "issueType": "换挡时严重抖动",
+      "remark": "影响驾驶体验"
+    },
+    {
+      "name": "动力中断",
+      "issueType": "行驶中突然失去动力",
+      "remark": "存在重大安全隐患"
+    },
+    {
+      "name": "过热保护",
+      "issueType": "频繁进入保护模式",
+      "remark": "城市拥堵路况多发"
+    },
+    {
+      "name": "设计缺陷",
+      "issueType": "干式离合器散热不良",
+      "remark": "长期使用易损坏"
+    }
+  ],
+  "penalty": {
+    "type": "召回",
+    "amount": "未公开",
+    "desc": "大众中国宣布召回部分搭载DSG变速箱的车辆",
+    "response": "大众中国承诺延长质保期"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局缺陷产品管理中心介入调查",
+    "brandRes": "大众改进DSG变速箱设计"
+  }
+}

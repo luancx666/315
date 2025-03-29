@@ -1,0 +1,51 @@
+{
+  "title": "劣质建材危害建筑安全",
+  "exposureTime": "1999-03-15",
+  "industry": "建筑材料",
+  "desc": "1999年央视'3·15'晚会曝光了建筑行业使用劣质钢材、水泥等建材的严重问题，这些不合格产品导致建筑物安全隐患，威胁人民生命财产安全。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家建材生产企业",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种未达标建材"
+    }
+  ],
+  "productType": 95,
+  "productList": [
+    {
+      "name": "钢材问题",
+      "issueType": "强度不达标",
+      "remark": "使用地条钢等劣质材料"
+    },
+    {
+      "name": "水泥问题",
+      "issueType": "标号不足",
+      "remark": "实际强度低于标注"
+    },
+    {
+      "name": "安全隐患",
+      "issueType": "建筑物承重力下降",
+      "remark": "增加坍塌风险"
+    },
+    {
+      "name": "利益链条",
+      "issueType": "开发商为省钱采购",
+      "remark": "与生产商勾结"
+    }
+  ],
+  "penalty": {
+    "type": "查处、整改",
+    "amount": "未公开",
+    "desc": "问题企业被查处，不合格建材销毁",
+    "response": "部分企业辩称'检测标准不同'"
+  },
+  "followUp": {
+    "regulatory": "建设部加强建材质量监管",
+    "brandRes": "建筑行业建立材料追溯制度"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "大众汽车DSG变速箱故障问题",
+  "exposureTime": "2013-03-15",
+  "industry": "汽车制造",
+  "desc": "2013年央视'3·15'晚会曝光了大众汽车DSG双离合变速箱存在的严重质量问题，包括行驶中突然失速、动力中断等故障，对驾驶安全构成重大威胁，且大众公司初期应对消极。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "大众汽车（中国）投资有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "大众"
+    },
+    {
+      "name": "斯柯达"
+    }
+  ],
+  "productType": 40,
+  "productList": [
+    {
+      "name": "变速箱故障",
+      "issueType": "行驶中突然失速",
+      "remark": "存在重大安全隐患"
+    },
+    {
+      "name": "动力中断",
+      "issueType": "加速时动力突然丧失",
+      "remark": "极易引发交通事故"
+    },
+    {
+      "name": "抖动异响",
+      "issueType": "低速行驶时异常",
+      "remark": "影响驾驶体验"
+    },
+    {
+      "name": "售后推诿",
+      "issueType": "初期否认质量问题",
+      "remark": "仅通过软件升级应付"
+    }
+  ],
+  "penalty": {
+    "type": "召回",
+    "amount": "未公开",
+    "desc": "大众中国宣布召回38万辆配备DSG变速箱的车辆",
+    "response": "大众中国发表致歉声明"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局缺陷产品管理中心介入调查",
+    "brandRes": "大众延长DSG变速箱质保期"
+  }
+}

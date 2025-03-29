@@ -1,0 +1,51 @@
+{
+  "title": "惠普笔记本质量问题",
+  "exposureTime": "2010-03-15",
+  "industry": "电子产品制造",
+  "desc": "2010年央视'3·15'晚会曝光了惠普部分型号笔记本电脑存在严重质量问题，包括显卡过热、主板烧毁等故障，且惠普售后服务态度消极，未能有效解决问题。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "惠普（中国）有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "惠普"
+    }
+  ],
+  "productType": 58,
+  "productList": [
+    {
+      "name": "显卡过热",
+      "issueType": "设计散热不良",
+      "remark": "导致频繁死机、花屏"
+    },
+    {
+      "name": "主板烧毁",
+      "issueType": "高温导致主板损坏",
+      "remark": "维修成本高昂"
+    },
+    {
+      "name": "批次问题",
+      "issueType": "特定型号集中爆发",
+      "remark": "包括DV2000、V3000等系列"
+    },
+    {
+      "name": "售后推诿",
+      "issueType": "拒绝承认设计缺陷",
+      "remark": "要求用户自费维修"
+    }
+  ],
+  "penalty": {
+    "type": "整改、延保",
+    "amount": "未公开",
+    "desc": "惠普被要求提供免费维修服务",
+    "response": "惠普中国发表致歉声明"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局介入调查",
+    "brandRes": "惠普延长受影响机型保修期"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "假冒伪劣农资产品",
+  "exposureTime": "1997-03-15",
+  "industry": "农业生产资料",
+  "desc": "1997年央视'3·15'晚会曝光了农村市场假冒伪劣种子、化肥、农药等农资产品泛滥的问题，这些劣质产品导致农作物减产甚至绝收，严重损害农民利益。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家农资生产企业",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种假冒农资品牌"
+    }
+  ],
+  "productType": 100,
+  "productList": [
+    {
+      "name": "假种子",
+      "issueType": "发芽率极低",
+      "remark": "导致大面积绝收"
+    },
+    {
+      "name": "劣质化肥",
+      "issueType": "有效成分不足",
+      "remark": "仅为标注值的30%"
+    },
+    {
+      "name": "假农药",
+      "issueType": "无杀虫效果",
+      "remark": "导致病虫害泛滥"
+    },
+    {
+      "name": "销售渠道",
+      "issueType": "主要流向农村",
+      "remark": "利用农民辨别能力弱"
+    }
+  ],
+  "penalty": {
+    "type": "查处、赔偿",
+    "amount": "未公开",
+    "desc": "涉事企业被查处并赔偿农民损失",
+    "response": "部分企业辩称'气候原因导致减产'"
+  },
+  "followUp": {
+    "regulatory": "农业部开展农资打假专项行动",
+    "brandRes": "正规农资企业加强防伪措施"
+  }
+}

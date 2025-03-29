@@ -1,0 +1,55 @@
+{
+  "title": "虚假医疗广告问题",
+  "exposureTime": "1997-03-15",
+  "industry": "医疗广告",
+  "desc": "1997年央视'3·15'晚会曝光了电视、报纸等媒体上大量出现的虚假医疗广告问题，这些广告夸大治疗效果，欺骗患者，严重危害公众健康。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家医疗机构",
+      "legalPerson": "未公开"
+    },
+    {
+      "name": "部分广告公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种所谓'特效药'"
+    }
+  ],
+  "productType": 101,
+  "productList": [
+    {
+      "name": "虚假宣传",
+      "issueType": "夸大治疗效果",
+      "remark": "宣称'包治百病'"
+    },
+    {
+      "name": "伪造专家",
+      "issueType": "假冒医学专家",
+      "remark": "使用演员冒充"
+    },
+    {
+      "name": "患者造假",
+      "issueType": "雇佣托儿作证",
+      "remark": "虚构治愈案例"
+    },
+    {
+      "name": "延误治疗",
+      "issueType": "患者错过最佳治疗期",
+      "remark": "造成不可逆伤害"
+    }
+  ],
+  "penalty": {
+    "type": "查处、停播",
+    "amount": "未公开",
+    "desc": "违规广告被停播，医疗机构被查处",
+    "response": "部分媒体辩称'审核不严'"
+  },
+  "followUp": {
+    "regulatory": "国家工商局加强医疗广告审查",
+    "brandRes": "媒体建立广告内容审核机制"
+  }
+}

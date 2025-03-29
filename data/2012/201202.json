@@ -1,0 +1,51 @@
+{
+  "title": "家乐福超市价格欺诈",
+  "exposureTime": "2012-03-15",
+  "industry": "零售业",
+  "desc": "2012年央视'3·15'晚会曝光了家乐福超市存在多种价格欺诈行为，包括虚构原价、低价招徕顾客高价结算等，严重侵害消费者权益。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "家乐福(中国)管理咨询服务有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "家乐福"
+    }
+  ],
+  "productType": 46,
+  "productList": [
+    {
+      "name": "虚构原价",
+      "issueType": "虚假打折促销",
+      "remark": "标高原价后虚假打折"
+    },
+    {
+      "name": "低价诱导",
+      "issueType": "标价与结算价不符",
+      "remark": "招徕顾客后高价结算"
+    },
+    {
+      "name": "价签不规范",
+      "issueType": "价签信息不完整",
+      "remark": "隐瞒商品真实信息"
+    },
+    {
+      "name": "促销陷阱",
+      "issueType": "限时促销不兑现",
+      "remark": "促销期后仍标促销价"
+    }
+  ],
+  "penalty": {
+    "type": "罚款、整改",
+    "amount": "50万元",
+    "desc": "涉事门店被处以罚款并要求全面整改",
+    "response": "家乐福中国致歉并承诺改进"
+  },
+  "followUp": {
+    "regulatory": "国家发改委部署全国价格专项检查",
+    "brandRes": "家乐福建立价格自查机制"
+  }
+}

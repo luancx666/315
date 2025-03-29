@@ -1,0 +1,51 @@
+{
+  "title": "江淮汽车钢板锈蚀问题",
+  "exposureTime": "2011-03-15",
+  "industry": "汽车制造",
+  "desc": "2011年央视'3·15'晚会曝光了江淮同悦轿车因使用普通钢板替代防腐钢板，导致车身在短时间内出现大面积锈蚀的质量问题，严重影响车辆安全性能。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "安徽江淮汽车股份有限公司",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "江淮同悦"
+    }
+  ],
+  "productType": 55,
+  "productList": [
+    {
+      "name": "车身锈蚀",
+      "issueType": "钢板快速锈蚀穿孔",
+      "remark": "使用1-2年即出现"
+    },
+    {
+      "name": "材料问题",
+      "issueType": "使用普通钢板",
+      "remark": "未采用防腐镀锌板"
+    },
+    {
+      "name": "安全隐患",
+      "issueType": "车身结构强度下降",
+      "remark": "影响碰撞安全性"
+    },
+    {
+      "name": "售后推诿",
+      "issueType": "初期不承认质量问题",
+      "remark": "仅提供简单防锈处理"
+    }
+  ],
+  "penalty": {
+    "type": "召回",
+    "amount": "未公开",
+    "desc": "江淮汽车宣布召回部分同悦轿车",
+    "response": "江淮汽车公开致歉"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局加强汽车防腐标准监管",
+    "brandRes": "江淮改进车身防腐工艺"
+  }
+}

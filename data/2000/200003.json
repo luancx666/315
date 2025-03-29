@@ -1,0 +1,51 @@
+{
+  "title": "劣质热得快安全隐患",
+  "exposureTime": "2000-03-15",
+  "industry": "小家电",
+  "desc": "2000年央视'3·15'晚会曝光了市场上销售的劣质'热得快'电热水器存在严重安全隐患，这些产品缺乏基本安全保护装置，极易引发火灾和触电事故。",
+  "url": "",
+  "companyList": [
+    {
+      "name": "多家小家电生产作坊",
+      "legalPerson": "未公开"
+    }
+  ],
+  "brandList": [
+    {
+      "name": "多种无品牌'热得快'"
+    }
+  ],
+  "productType": 92,
+  "productList": [
+    {
+      "name": "安全隐患",
+      "issueType": "无过热保护装置",
+      "remark": "干烧时不会自动断电"
+    },
+    {
+      "name": "漏电风险",
+      "issueType": "绝缘性能差",
+      "remark": "水中带电现象频发"
+    },
+    {
+      "name": "材料劣质",
+      "issueType": "使用回收金属",
+      "remark": "易腐蚀断裂"
+    },
+    {
+      "name": "无证生产",
+      "issueType": "未通过安全认证",
+      "remark": "属于三无产品"
+    }
+  ],
+  "penalty": {
+    "type": "查处、取缔",
+    "amount": "未公开",
+    "desc": "生产窝点被查封，产品被禁售",
+    "response": "部分商家辩称'价格便宜'"
+  },
+  "followUp": {
+    "regulatory": "国家质检总局发布《家用和类似用途电器的安全》标准",
+    "brandRes": "正规企业加强产品安全设计"
+  }
+}
